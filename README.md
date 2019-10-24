@@ -1,7 +1,6 @@
-# CarLife映射版
-[carLife映射版 点击下载](http://www.mediafire.com/file/x5iazew4lkptj6f/carLife_yingshe2.apk/file)  基于最新版百度CarLife(5.12.10)修改，目前还没有修改声音问题<br>
-相对于carlife Ex，修改了对所有手机都开启高清模式支持，稍微调整了下底部栏高度<br>
-网易云音乐不会崩溃并且可用<br>
+# 百度 CarPro
+[carLife映射版 点击下载](http://www.mediafire.com/file/mmn6egb94e8ptqu/carLife67.apk/file)  基于最新版百度CarLife(6.0.1)修改，声音应该是改不好了，大部分手机的触控支持需要root都做不了应该，<br>
+相对于carlife Ex，网易云音乐不会崩溃并且可用<br>
 点击事件和carLife Ex一样，如果Ex不能用的，这个也用不了，要支持只能针对root用户开发<br>
 横屏问题可以尝试安装Orientation Control，不过在我自己的Vivo 9.0上没有作用，在华为上没问题<br>
 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
