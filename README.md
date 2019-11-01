@@ -6,6 +6,9 @@
 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
 这个版本能用的麻烦反馈一下能用，因为之前只看到反应用不了的朋友
 
+[carLife映射版root用户 点击下载](http://www.mediafire.com/file/0ha808we4iesnuy/carLife671.apk/file)，有root的同学来试试这个版本<br>
+root主要是添加了全局点击事件支持，在carLife外的界面也可以点击。
+
 
 # CarLife高清版
 [carLife高清版 点击下载](http://www.mediafire.com/file/wri63ijziafctx6/carLife67_highdef.apk/file)是跟官方版(6.0.1)一样的可息屏版本，但不能映射，强制开启高清支持
