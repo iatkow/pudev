@@ -7,7 +7,7 @@
 这个版本能用的麻烦反馈一下能用，因为之前只看到反应用不了的朋友
 
 # 百度 CarPro for Root用户版本
-[carLife映射版for Root用户 点击下载](http://www.mediafire.com/file/0ha808we4iesnuy/carLife671.apk/file)，有root的同学来试试这个版本<br>
+[carLife映射版for Root用户 点击下载](http://www.mediafire.com/file/9ql7svqkb2bkc7s/carLife671.apk/file)，有root的同学来试试这个版本<br>
 root主要是添加了全局点击事件支持，在carLife外的界面也可以点击。
 
 
