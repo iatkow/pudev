@@ -6,7 +6,8 @@
 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
 这个版本能用的麻烦反馈一下能用，因为之前只看到反应用不了的朋友
 
-[carLife映射版root用户 点击下载](http://www.mediafire.com/file/0ha808we4iesnuy/carLife671.apk/file)，有root的同学来试试这个版本<br>
+# 百度 CarPro for Root用户版本
+[carLife映射版for Root用户 点击下载](http://www.mediafire.com/file/0ha808we4iesnuy/carLife671.apk/file)，有root的同学来试试这个版本<br>
 root主要是添加了全局点击事件支持，在carLife外的界面也可以点击。
 
 
@@ -15,9 +16,7 @@ root主要是添加了全局点击事件支持，在carLife外的界面也可以
 
 两个版本的高清支持的后果都是手机会比较烫，这应该也是百度只对部分手机开启高清的原因。<br>
 性能不是很好的手机不是很建议使用<br>
-备用下载链接:<br>
 
-[MediaFile](http://www.mediafire.com/file/jx6ofhc8o885fqp/carLife_gaoqing.apk)
 
 # AutoMap for Android Auto
 [AutoMap 点击下载](https://github.com/puderty/pudev/releases/download/1/AutoMap.apk)是基于高德地图sdk实现的能在Android Auto上使用的第三方地图，但需要root解锁<br>
