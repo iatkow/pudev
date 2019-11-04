@@ -1,16 +1,13 @@
-# 百度 CarPro for Root用户版本
-[carLife映射版for Root用户 点击下载](http://www.mediafire.com/file/529k6kdif9btsjl/carLife672.apk/file)，有root的同学来试试这个版本<br>
-root主要是添加了全局点击事件支持，在carLife外的界面也可以点击。<br>
-2019.11.04修改：添加全局横屏支持，打开应用后在系统界面授予显示在其他应用上层权限来开启全局横屏模式
-
-
 # 百度 CarPro
-[carLife映射版 点击下载](http://www.mediafire.com/file/mmn6egb94e8ptqu/carLife67.apk/file)  基于最新版百度CarLife(6.0.1)修改，声音应该是改不好了，大部分手机的触控支持需要root都做不了应该，<br>
-相对于carlife Ex，网易云音乐不会崩溃并且可用<br>
-点击事件和carLife Ex一样，如果Ex不能用的，这个也用不了，要支持只能针对root用户开发<br>
-横屏问题可以尝试安装Orientation Control，不过在我自己的Vivo 9.0上没有作用，在华为上没问题<br>
+[carLife映射版 点击下载](https://www.mediafire.com/file/1a73j1cp9jz3qwa/carLife672.apk/file)  基于最新版百度CarLife(6.0.1)修改<br>
 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
-这个版本能用的麻烦反馈一下能用，因为之前只看到反应用不了的朋友
+root用户授权后可以支持全局点击<br>
+网易云音乐不会崩溃并且可用<br>
+打开应用后在系统界面授予显示在其他应用上层权限来开启全局横屏模式<br>
+声音设置在系统设置-声音设置里，移植自carLife Ex, Ex如果用不了，这个也还是用不了，并且我感觉无解<br>
+
+2019.11.04修改：添加全局横屏和声音设置支持<br>
+这大概是最后一个版本了，之后应该不会再做什么开发。除非有大神告知这个声音模式如何设置<br>
 
 
 # CarLife高清版
