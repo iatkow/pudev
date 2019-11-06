@@ -1,5 +1,5 @@
 # 百度 CarPro
-[百度 CarPro 点击下载](https://www.mediafire.com/file/1a73j1cp9jz3qwa/carLife672.apk/file)  基于最新版百度CarLife(6.0.1)修改<br>
+[百度 CarPro 点击下载](http://www.mediafire.com/file/0dhmenvb4aqv279/carLife672.apk/file)  基于最新版百度CarLife(6.0.1)修改<br>
 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
 root用户授权后可以支持全局点击<br>
 网易云音乐不会崩溃并且可用<br>
@@ -12,6 +12,7 @@ root用户授权后可以支持全局点击<br>
 别的品牌也可以看看如何能够在车机端强行开启蓝牙模式，福特是链接carlife后就蓝牙置灰不让切换了。
 
 2019.11.04修改：添加全局横屏和声音设置支持<br>
+2019.11.06修改：在主界面添加桌面,微信,高德,网易云音乐的快捷启动按钮，添加屏幕常亮支持(vivo好像无效)<br>
 这大概是最后一个版本了，之后应该不会再做什么开发。除非有大神告知这个声音模式如何设置<br>
 
 
