@@ -9,10 +9,9 @@ root用户授权后可以支持全局点击<br>
 #### 福特车主: <br>
 有机智网友发现sync3可以通过选择qq音乐或者网易云音乐作为音频来源来强制开启蓝牙音频模式，我是锐界车主亲测好使<br>
 方法可以参考[链接](https://kknews.cc/digital/zyexplg.html)<br>
-1.手机下载百度carlife破解版6.0.1版本；
-2.链接好carlife，汽车端回到主页，链接手机蓝牙；
-3.搜索应用程序，链接QQ音乐；
-4.回到carlife主页，然后播放视频；
+1.链接好carlife，汽车端回到主页，链接手机蓝牙；<br>
+2.搜索应用程序，链接网易云音乐或者QQ音乐；<br>
+3.车机上回到carlife主页，然后在手机上选择播放视频；<br>
 
 
 原文網址：https://kknews.cc/digital/zyexplg.html
