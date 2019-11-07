@@ -1,10 +1,11 @@
 # 百度 CarPro
-[百度 CarPro 点击下载](http://www.mediafire.com/file/25agr43x7y5672z/carLife673.apk/file)  基于最新版百度CarLife(6.0.1)修改<br>
+[百度 CarPro 点击下载](http://www.mediafire.com/file/zut6rpxh7eauimx/carLife673.apk/file)  基于最新版百度CarLife(6.0.1)修改<br>
 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
 root用户授权后可以支持全局点击<br>
 网易云音乐不会崩溃并且可用<br>
 强制开启高清模式<br>
 打开应用后在系统界面授予显示在其他应用上层权限来开启全局横屏模式<br>
+授予查看使用情况权限来判断当前应用以决定是否要横屏<br>
 声音设置在系统设置-声音设置里，移植自carLife Ex, Ex如果用不了，这个也还是用不了，并且我感觉无解<br>
 #### 福特车主: <br>
 有机智网友发现sync3可以通过选择qq音乐或者网易云音乐作为音频来源来强制开启蓝牙音频模式，我是锐界车主亲测好使<br>
@@ -13,8 +14,6 @@ root用户授权后可以支持全局点击<br>
 2.搜索应用程序，链接网易云音乐或者QQ音乐；<br>
 3.车机上回到carlife主页，然后在手机上选择播放视频；<br>
 
-
-原文網址：https://kknews.cc/digital/zyexplg.html
 别的品牌也可以看看如何能够在车机端强行开启蓝牙模式，福特是链接carlife后就蓝牙置灰不让切换了。
 
 2019.11.04修改：添加全局横屏和声音设置支持<br>
