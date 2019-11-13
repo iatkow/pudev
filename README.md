@@ -1,5 +1,5 @@
 # 百度 CarPro
-[百度 CarPro 点击下载](https://www.mediafire.com/file/zezpxkfkmfr11no/carLife6792.apk/file)  基于百度CarLife(6.0.1)修改<br>
+[百度 CarPro 点击下载](https://www.mediafire.com/file/3g8438tsbnpfg47/carLife67a.apk/file)  基于百度CarLife(6.0.1)修改<br>
 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
 Root用户授权后可以支持车机屏幕全局点击<br>
 网易云音乐不会崩溃并且可用<br>
