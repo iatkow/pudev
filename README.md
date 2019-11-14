@@ -1,7 +1,7 @@
 # 百度 CarPro
 [百度 CarPro 点击下载](https://www.mediafire.com/file/w2yeptasstwpjvi/carLife67b.apk/file)  基于百度CarLife(6.0.1)修改<br>
-第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
-Root用户授权后可以支持车机屏幕全局点击<br>
+* 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
+* Root用户授权后可以支持车机屏幕全局点击<br>
 网易云音乐不会崩溃并且可用<br>
 强制开启高清模式<br>
 打开应用后在系统界面授予显示在其他应用上层权限来开启全局横屏模式<br>
