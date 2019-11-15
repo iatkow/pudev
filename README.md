@@ -1,5 +1,6 @@
 # 百度 CarPro
-[百度 CarPro 点击下载](https://www.mediafire.com/file/w2yeptasstwpjvi/carLife67b.apk/file)  基于百度CarLife(6.0.1)修改<br>
+[百度 CarPro 点击下载](https://www.mediafire.com/file/w2yeptasstwpjvi/carLife67b.apk/file)  基于百度CarLife(6.0.1)修改<br>测试版测
+[测试版下载](https://www.mediafire.com/file/dvjqrzjppx4em6t/carLife67c.apk/file)支持未Root手机全局点击<br>
 * 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
 * Root用户授权后可以支持车机屏幕全局点击<br>
 * 网易云音乐不会崩溃并且可用<br>
@@ -8,10 +9,8 @@
 * 授予查看使用情况权限来判断当前应用以决定是否要横屏<br>
 * 未Root手机在车机屏幕其他应用界面双击可以返回到carLife<br>
 * 声音设置在系统设置-声音设置里，移植自carLife Ex, Ex如果用不了，这个也还是用不了，并且我感觉无解<br>
-* 最近应该能解决未root手机全局点击
+* 最新测试版大家帮我试试，需要授予辅助功能权限，能做到全局点击，滑动的体验可能不大好<br>
 
-* 非root手机点击事件支持尝试了类似黑域
-的做法，但是usb启动的后台程序经常被杀，而且连接车机的时候也直接被杀，无解。
 
 #### 福特车主: <br>
 有机智网友发现sync3可以通过选择qq音乐或者网易云音乐作为音频来源来强制开启蓝牙音频模式，我是锐界车主亲测好使<br>
