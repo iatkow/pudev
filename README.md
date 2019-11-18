@@ -1,15 +1,16 @@
 # 百度 CarPro
-[百度 CarPro 点击下载](https://www.mediafire.com/file/w2yeptasstwpjvi/carLife67b.apk/file)  基于百度CarLife(6.0.1)修改<br>
-[测试版下载](https://www.mediafire.com/file/zl4569fvka76ug8/carLife67c.apk/file) Androd7.0及以上系统支持未Root手机车机全局点击<br>
+[百度 CarPro 点击下载](https://www.mediafire.com/file/rcagqoie7ptfxec/carLife67f.apk/file)  基于百度CarLife(6.0.1)修改<br>
 * 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
 * Root用户授权后可以支持车机屏幕全局点击<br>
+* Android7.0及以上用户授权辅助功能后可以支持车机屏幕全局点击<br>
+* Android7.0及以上未root手机能做到全局点击，滑动的体验可能不大好<br>
+* 未Root并是Android7.0以下在车机屏幕其他应用界面双击可以返回到carLife<br>
 * 网易云音乐不会崩溃并且可用<br>
 * 强制开启高清模式<br>
 * 打开应用后在系统界面授予显示在其他应用上层权限来开启全局横屏模式<br>
 * 授予查看使用情况权限来判断当前应用以决定是否要横屏<br>
-* 未Root手机在车机屏幕其他应用界面双击可以返回到carLife<br>
 * 声音设置在系统设置-声音设置里，移植自carLife Ex, Ex如果用不了，这个也还是用不了，并且我感觉无解<br>
-* 最新[测试版]((https://www.mediafire.com/file/zl4569fvka76ug8/carLife67c.apk/file))大家帮我试试，需要授予辅助功能权限，Android7.0及以上未root手机能做到全局点击，滑动的体验可能不大好<br>
+
 
 
 #### 福特车主: <br>
@@ -26,6 +27,7 @@
 * 2019.11.07修改：全局横屏可以关闭。vivo手机桌面横屏显示有问题，在桌面时取消横屏。修复点击事件不准确的问题<br>
 * 2019.11.09修改：未root手机在其他应用界面双击可以返回到carLife，root手机点击支持完善。修复返回键无响应问题<br>
 * 2019.11.12修改：修复在静止画面可能断开的问题<br>
+* 2019.11.18修改：支持未root手机全局点击<br>
 <br>
 这大概是最后一个版本了，之后应该不会再做什么开发。除非有大神告知这个声音模式如何设置<br>
 
