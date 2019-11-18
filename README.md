@@ -29,8 +29,11 @@
 * 2019.11.12修改：修复在静止画面可能断开的问题<br>
 * 2019.11.18修改：支持未Root手机全局点击<br>
 
-天天问全屏的那些人，你问问自己你愿意Root吗？大部分人都不想Root却想要Root的功能<br>
-Root的设备可以通过adb shell;su;wm size width height;width和height指宽高来修改手机分辨率适配车机比例<br>
+Root的设备可以通过如下命令修改手机分辨率适配车机比例
+adb shell<br>
+su<br>
+wm size 宽x高  比如:wm size 1080x1920 适配16/9比例车机<br>
+wm size reset可以重置为手机默认比例<br>
 
 <br>
 这大概是最后一个版本了，之后应该不会再做什么开发。除非有大神告知这个声音模式如何设置<br>
