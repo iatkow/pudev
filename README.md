@@ -28,7 +28,7 @@
 * 2019.11.09修改：未Root手机在其他应用界面双击可以返回到carLife，Root手机点击支持完善。修复返回键无响应问题<br>
 * 2019.11.12修改：修复在静止画面可能断开的问题<br>
 * 2019.11.18修改：支持未Root手机全局点击<br>
-<br>
+
 * 天天问全屏的那些人，你问问自己你愿意Root吗？大部分人都不想Root却想要Root的功能<br>
 * Root的设备可以通过adb shell;su;wm size width height;width和height指宽高来修改手机分辨率适配车机比例<br>
 
