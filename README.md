@@ -1,5 +1,5 @@
 # 百度 CarPro
-[百度 CarPro 点击下载](https://www.mediafire.com/file/19r57k5p9i134wf/carLife67e.apk/file)  基于百度CarLife(6.0.1)修改<br>
+[百度 CarPro 点击下载](https://www.mediafire.com/file/gzf0op1mkbup9ra/carLife67g.apk/file)  基于百度CarLife(6.0.1)修改<br>
 * 第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许<br>
 * Root用户授权后可以支持车机屏幕全局点击<br>
 * Android7.0及以上用户授权辅助功能后可以支持车机屏幕全局点击<br>
